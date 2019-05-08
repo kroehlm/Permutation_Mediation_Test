@@ -3,7 +3,7 @@ Simulation code for the manuscript Permutation Based Methods for Mediation Analy
 
 ## Files
 
-'mediationTestPermMethods.R'
+### 'mediationTestPermMethods.R'
 This file contains the function for simulating data and testing for mediation using the proposed permtuation approaches, as well as the standard permutation approach and bootstrap methods.
 
 'helper_functions.R'
